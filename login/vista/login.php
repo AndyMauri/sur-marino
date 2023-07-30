@@ -33,3 +33,5 @@
 	</div>
 
 </div><!-- /.container -->
+
+<?php include 'partials/footer.php';?>

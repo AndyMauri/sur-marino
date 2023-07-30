@@ -1,0 +1,124 @@
+body {
+    background-image: url("img/fondo.jpg");
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    line-height: 1.7;
+    color: #000000;
+    font-weight: 300;
+    font-size: 16px; 
+}
+
+span.titulo{
+    font-size: 25px;
+    color: rebeccapurple;
+}
+
+img.logo{
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin: 10px;
+}
+
+ div.fac-t{
+         padding: 3px 10px;
+         border: rgb(2, 2, 2) 4px solid;
+         border-top-left-radius: 35px;
+         border-bottom-right-radius: 35px;
+         position: relative;
+         margin-left: auto; 
+         margin-right: auto;
+        width: 850px;
+        height: 500px;
+        background-color: rgb(255, 255, 255);
+        overflow-x: hidden; 
+        overflow-x: auto; 
+              
+        
+    }
+    
+input.no-border{
+    border: 0;
+    border-radius: 5px;
+    background-color: rgb(237, 248, 247);
+    font-size: 15px;
+    font-family: "hurmegeometricsans3_regularRg";
+    padding-left: 5px;    
+    padding-top: 2px;
+    padding-bottom: 10px;
+   
+}
+
+#cb-color::placeholder{
+    color: black;
+}
+
+input.date{
+    float: right;
+    background-color: rgb(255, 255, 255);
+    border: 0;
+}
+
+    div.fac-c{
+        position: relative;
+        float: left;
+        border-radius: 20px;
+        margin-top: 10px;
+        width: 180px;
+        height: 470px;
+        background-color: rgb(150, 233, 212);
+        text-align-last: left;
+        
+
+    }
+
+span.pos{
+    float: left;
+
+}
+
+    table.tab-1{
+        width: 75%;
+        background-color: rgb(150, 233, 212);
+        text-align-last: left;
+        border: 0;
+
+    }
+
+    table.tab-2 {
+        width: 75%;        
+        background-color: rgb(150, 233, 212);
+        text-align-last: left;
+        border: 0;
+
+    }
+    table.tab-3 {
+        width: 75%;        
+        background-color: rgb(190, 229, 221);
+        text-align-last: left;
+        border: 0;
+
+    }
+div.sub{
+           
+        background-color: rgb(255, 255, 255);        
+        margin-top: 90px;
+        
+}
+
+div.btn-imp{
+        position: relative;
+        float: right;        
+        background-color: rgb(255, 255, 255);        
+        margin-top: 40px;
+        
+}
+
+div.info{
+    
+    margin-top: 110px;
+    color: rebeccapurple;
+
+
+}
