@@ -1,3 +1,4 @@
+# ignorar archivos de configuración y/o contraseñas
 *.settings
 
 # resultados de compilación
@@ -9,6 +10,15 @@ x86/
 [Oo]bj/
 [Ll]og/
 
+#  resultados de los tests
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# ignora las carpetas git, cache, de visual studio y visual studio code
+.git
+.cache
+.vs
+.vscode
 .github
 
 # archivos específicos del usuario
