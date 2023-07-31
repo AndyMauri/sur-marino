@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-ADD ../surmarino /bin/bash
+COPY . /bin/bash
