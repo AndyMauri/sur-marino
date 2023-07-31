@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-ADD . /bin/bash
+ADD ./ /bin/bash
