@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-COPY . /bin/bash
+ADD index.php /bin/bash
