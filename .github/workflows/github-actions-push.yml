@@ -14,4 +14,4 @@ jobs:
         repository: ${{ github.sur-marino }}
         tag_with_ref: true
         tag_with_sha: true
-        tags: ${{ github.sha }}
+        tags: ${{ github.SHA }}
