@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-ADD index.php /bin/bash
+ADD ../surmarino /bin/bash
